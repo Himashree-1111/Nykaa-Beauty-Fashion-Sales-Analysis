@@ -48,3 +48,10 @@ Dashboard Features
 Project Objective
 
 To demonstrate practical data analytics skills, including data cleaning, SQL querying, KPI development, data visualization, and business insight generation.
+
+
+Key Business Insights:
+
+Beauty generated higher revenue than Fashion.
+Overall profit margin was 38.83%.
+The dashboard helps compare monthly trends, regional performance, and product contributions.
